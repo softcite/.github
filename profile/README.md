@@ -6,7 +6,9 @@ Softcite is a project to improve the visibility of research software.  We produc
 
 ### Extracted software mentions from publicatons
 
-- [Softcite software mention extraction from the CORD-19 publications](https://zenodo.org/records/5235661)
+- [Softcite software mention extractions from ~26 million open access publications, 2025](https://doi.org/10.5281/zenodo.14991355)
+
+- [Softcite software mention extractions from the CORD-19 publications ](https://zenodo.org/records/5235661)
 
 ### Manually annotated Gold standard dataset of software mentions
 
