@@ -16,6 +16,17 @@ Softcite is a project to improve the visibility of research software.  We produc
 
 - (archived) [Softcite Dataset v1](https://zenodo.org/records/4445202)
 
+## Known users of Softcite
+
+Ironically (but not at surprisingly) we don't have an automated way to know who is using Softcite Mention extractor or other data products, but here are some known projects.
+
+### Using extraction models
+- DataSeer <https://dataseer.ai/>
+- EU Funded SoFAIR project <https://sofair.org/>
+
+### Using gold standard annotations
+The Chan Zuckerberg Foundaton used the Softcite software mentions annotations dataset to train the model CZI used in creating the CZI software mentions dataset: <https://arxiv.org/abs/2209.00693>
+
 ## Tools
 
 ### Mention Extraction Tool chain
