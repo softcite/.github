@@ -13,19 +13,7 @@ Softcite is a project to improve the visibility of research software.  We produc
 ### Manually annotated Gold standard dataset of software mentions
 
 - [Softcite Dataset v2](https://zenodo.org/records/7995565)
-
 - (archived) [Softcite Dataset v1](https://zenodo.org/records/4445202)
-
-## Known users of Softcite
-
-Ironically (but not at surprisingly) we don't have an automated way to know who is using Softcite Mention extractor or other data products, but here are some known projects.
-
-### Using extraction models
-- DataSeer <https://dataseer.ai/>
-- EU Funded SoFAIR project <https://sofair.org/>
-
-### Using gold standard annotations
-The Chan Zuckerberg Foundaton used the Softcite software mentions annotations dataset to train the model CZI used in creating the CZI software mentions dataset: <https://arxiv.org/abs/2209.00693>
 
 ## Tools
 
@@ -58,3 +46,15 @@ There is a demonstration of this available (populated with a small set of extrac
 - Bassinet, A., Bracco, L., L’Hôte, A., Jeangirard, E., Lopez, P., & Romary, L. (2023). Monitoring the production and the openness of research data and software in France:Large-scale Machine-Learning analysis of scientific PDF. https://github.com/Barometre-de-la-Science-Ouverte/bso3-techdoc/blob/master/methodology/bso3.pdf
 
 - Andrew Nesbitt, Boris Veytsman, Daniel Mietchen, Eva Maxfield Brown, James Howison, João Felipe Pimentel, Laurent Hèbert-Dufresne, and Stephan Druskat. 2024. Biomedical Open Source Software: Crucial Packages and Hidden Heroes. arXiv, https://doi.org/10.48550/arXiv.2404.06672
+
+## Known users of Softcite
+
+Ironically (but not at surprisingly) we don't have an automated way to know who is using Softcite Mention extractor or other data products, but here are some known projects.
+
+### Using extraction models
+- DataSeer <https://dataseer.ai/>
+- EU Funded SoFAIR project <https://sofair.org/>
+
+### Using gold standard annotations
+The Chan Zuckerberg Foundaton used the Softcite software mentions annotations dataset to train the model CZI used in creating the CZI software mentions dataset: <https://arxiv.org/abs/2209.00693>
+
