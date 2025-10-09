@@ -33,8 +33,6 @@ We have an infrastructure to build a website that provides a browser to a databa
 
 - [Softcite Knowledge Base](https://github.com/softcite/softcite_kb)
 
-There is a demonstration of this available (populated with a small set of extractions): https://cloud.science-miner.com/software_kb/frontend/index.html
-
 ## Papers
 
 - Du, C., Cohoon, J., Lopez, P., & Howison, J. (2022). Understanding progress in software citation: a study of software citation in the CORD-19 corpus. PeerJ Computer Science, 8, e1022. https://doi.org/10.7717/peerj-cs.1022
