@@ -53,6 +53,7 @@ Ironically (but not at surprisingly) we don't have an automated way to know who 
 
 ### Using extraction models
 - DataSeer <https://dataseer.ai/>
+- CORE <https://core.ac.uk/>
 - EU Funded SoFAIR project <https://sofair.org/>
 
 ### Using gold standard annotations
